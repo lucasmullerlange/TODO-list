@@ -1,4 +1,7 @@
-# app_aula_04
+# TODO-LIST APP BASIC - LEANING 
+- setstate 
+- async await 
+
 
 A new Flutter project.
 
